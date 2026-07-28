@@ -1,2 +1,7 @@
-# RootForge
-Open-source modular plant system engineered for healthy roots and optimized for FDM 3D printing.
+# RootForge System
+
+> Engineering better roots.
+
+🚧 Project currently in research and concept phase.
+
+More coming soon.

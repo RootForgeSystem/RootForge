@@ -1,8 +1,8 @@
 # RootForge System
 
-We don't design products.
+Forging stronger foundations.
 
-We engineer foundations for sustainable growth.
+One root at a time.
 
 🚧 Project currently in research and concept phase.
 

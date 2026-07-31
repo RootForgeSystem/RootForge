@@ -1,4 +1,4 @@
-Core Mission
-Requirements
-Research
-Future Platform
+- Core Mission
+- Requirements
+- Research
+- Future Platform
